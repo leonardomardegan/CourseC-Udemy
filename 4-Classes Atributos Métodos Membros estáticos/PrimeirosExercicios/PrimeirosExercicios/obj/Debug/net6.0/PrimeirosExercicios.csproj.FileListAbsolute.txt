@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net6.0\PrimeirosExercicios.exe
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net6.0\PrimeirosExercicios.deps.json
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net6.0\PrimeirosExercicios.runtimeconfig.json
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net6.0\PrimeirosExercicios.dll
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net6.0\PrimeirosExercicios.pdb
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.AssemblyInfo.cs
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.dll
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\refint\PrimeirosExercicios.dll
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.pdb
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.genruntimeconfig.cache
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\ref\PrimeirosExercicios.dll

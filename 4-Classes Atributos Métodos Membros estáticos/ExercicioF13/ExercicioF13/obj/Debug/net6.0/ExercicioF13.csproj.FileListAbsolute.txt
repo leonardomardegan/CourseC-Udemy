@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF13\ExercicioF13\bin\Debug\net6.0\ExercicioF13.exe
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF13\ExercicioF13\bin\Debug\net6.0\ExercicioF13.deps.json
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF13\ExercicioF13\bin\Debug\net6.0\ExercicioF13.runtimeconfig.json
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF13\ExercicioF13\bin\Debug\net6.0\ExercicioF13.dll
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF13\ExercicioF13\bin\Debug\net6.0\ExercicioF13.pdb
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF13\ExercicioF13\obj\Debug\net6.0\ExercicioF13.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF13\ExercicioF13\obj\Debug\net6.0\ExercicioF13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF13\ExercicioF13\obj\Debug\net6.0\ExercicioF13.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF13\ExercicioF13\obj\Debug\net6.0\ExercicioF13.AssemblyInfo.cs
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF13\ExercicioF13\obj\Debug\net6.0\ExercicioF13.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF13\ExercicioF13\obj\Debug\net6.0\ExercicioF13.dll
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF13\ExercicioF13\obj\Debug\net6.0\refint\ExercicioF13.dll
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF13\ExercicioF13\obj\Debug\net6.0\ExercicioF13.pdb
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF13\ExercicioF13\obj\Debug\net6.0\ExercicioF13.genruntimeconfig.cache
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF13\ExercicioF13\obj\Debug\net6.0\ref\ExercicioF13.dll

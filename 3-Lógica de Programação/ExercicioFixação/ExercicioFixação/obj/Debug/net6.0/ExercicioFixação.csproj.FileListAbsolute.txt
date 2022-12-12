@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\Lógica de Programação\ExercicioFixação\ExercicioFixação\bin\Debug\net6.0\ExercicioFixação.exe
+D:\Curso C# Udemy\Lógica de Programação\ExercicioFixação\ExercicioFixação\bin\Debug\net6.0\ExercicioFixação.deps.json
+D:\Curso C# Udemy\Lógica de Programação\ExercicioFixação\ExercicioFixação\bin\Debug\net6.0\ExercicioFixação.runtimeconfig.json
+D:\Curso C# Udemy\Lógica de Programação\ExercicioFixação\ExercicioFixação\bin\Debug\net6.0\ExercicioFixação.dll
+D:\Curso C# Udemy\Lógica de Programação\ExercicioFixação\ExercicioFixação\bin\Debug\net6.0\ExercicioFixação.pdb
+D:\Curso C# Udemy\Lógica de Programação\ExercicioFixação\ExercicioFixação\obj\Debug\net6.0\ExercicioFixação.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\Lógica de Programação\ExercicioFixação\ExercicioFixação\obj\Debug\net6.0\ExercicioFixação.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\Lógica de Programação\ExercicioFixação\ExercicioFixação\obj\Debug\net6.0\ExercicioFixação.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\Lógica de Programação\ExercicioFixação\ExercicioFixação\obj\Debug\net6.0\ExercicioFixação.AssemblyInfo.cs
+D:\Curso C# Udemy\Lógica de Programação\ExercicioFixação\ExercicioFixação\obj\Debug\net6.0\ExercicioFixação.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\Lógica de Programação\ExercicioFixação\ExercicioFixação\obj\Debug\net6.0\ExercicioFixação.dll
+D:\Curso C# Udemy\Lógica de Programação\ExercicioFixação\ExercicioFixação\obj\Debug\net6.0\refint\ExercicioFixação.dll
+D:\Curso C# Udemy\Lógica de Programação\ExercicioFixação\ExercicioFixação\obj\Debug\net6.0\ExercicioFixação.pdb
+D:\Curso C# Udemy\Lógica de Programação\ExercicioFixação\ExercicioFixação\obj\Debug\net6.0\ExercicioFixação.genruntimeconfig.cache
+D:\Curso C# Udemy\Lógica de Programação\ExercicioFixação\ExercicioFixação\obj\Debug\net6.0\ref\ExercicioFixação.dll

@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\Problema1\Problema1\bin\Debug\net6.0\Problema1.exe
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\Problema1\Problema1\bin\Debug\net6.0\Problema1.deps.json
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\Problema1\Problema1\bin\Debug\net6.0\Problema1.runtimeconfig.json
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\Problema1\Problema1\bin\Debug\net6.0\Problema1.dll
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\Problema1\Problema1\bin\Debug\net6.0\Problema1.pdb
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\Problema1\Problema1\obj\Debug\net6.0\Problema1.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\Problema1\Problema1\obj\Debug\net6.0\Problema1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\Problema1\Problema1\obj\Debug\net6.0\Problema1.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\Problema1\Problema1\obj\Debug\net6.0\Problema1.AssemblyInfo.cs
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\Problema1\Problema1\obj\Debug\net6.0\Problema1.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\Problema1\Problema1\obj\Debug\net6.0\Problema1.dll
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\Problema1\Problema1\obj\Debug\net6.0\refint\Problema1.dll
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\Problema1\Problema1\obj\Debug\net6.0\Problema1.pdb
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\Problema1\Problema1\obj\Debug\net6.0\Problema1.genruntimeconfig.cache
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\Problema1\Problema1\obj\Debug\net6.0\ref\Problema1.dll

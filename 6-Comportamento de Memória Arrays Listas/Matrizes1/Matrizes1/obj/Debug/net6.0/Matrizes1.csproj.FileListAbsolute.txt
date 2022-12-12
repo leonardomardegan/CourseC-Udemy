@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Matrizes1\Matrizes1\bin\Debug\net6.0\Matrizes1.exe
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Matrizes1\Matrizes1\bin\Debug\net6.0\Matrizes1.deps.json
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Matrizes1\Matrizes1\bin\Debug\net6.0\Matrizes1.runtimeconfig.json
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Matrizes1\Matrizes1\bin\Debug\net6.0\Matrizes1.dll
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Matrizes1\Matrizes1\bin\Debug\net6.0\Matrizes1.pdb
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Matrizes1\Matrizes1\obj\Debug\net6.0\Matrizes1.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Matrizes1\Matrizes1\obj\Debug\net6.0\Matrizes1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Matrizes1\Matrizes1\obj\Debug\net6.0\Matrizes1.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Matrizes1\Matrizes1\obj\Debug\net6.0\Matrizes1.AssemblyInfo.cs
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Matrizes1\Matrizes1\obj\Debug\net6.0\Matrizes1.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Matrizes1\Matrizes1\obj\Debug\net6.0\Matrizes1.dll
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Matrizes1\Matrizes1\obj\Debug\net6.0\refint\Matrizes1.dll
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Matrizes1\Matrizes1\obj\Debug\net6.0\Matrizes1.pdb
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Matrizes1\Matrizes1\obj\Debug\net6.0\Matrizes1.genruntimeconfig.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Matrizes1\Matrizes1\obj\Debug\net6.0\ref\Matrizes1.dll

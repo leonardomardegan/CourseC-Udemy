@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioVetores\ExercicioVetores\bin\Debug\net6.0\ExercicioVetores.exe
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioVetores\ExercicioVetores\bin\Debug\net6.0\ExercicioVetores.deps.json
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioVetores\ExercicioVetores\bin\Debug\net6.0\ExercicioVetores.runtimeconfig.json
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioVetores\ExercicioVetores\bin\Debug\net6.0\ExercicioVetores.dll
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioVetores\ExercicioVetores\bin\Debug\net6.0\ExercicioVetores.pdb
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.AssemblyInfo.cs
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.dll
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\refint\ExercicioVetores.dll
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.pdb
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.genruntimeconfig.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ref\ExercicioVetores.dll

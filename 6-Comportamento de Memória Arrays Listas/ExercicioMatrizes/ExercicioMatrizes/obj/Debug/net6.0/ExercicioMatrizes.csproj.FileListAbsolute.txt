@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.exe
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.deps.json
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.runtimeconfig.json
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.dll
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.pdb
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.AssemblyInfo.cs
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.dll
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\refint\ExercicioMatrizes.dll
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.pdb
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.genruntimeconfig.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ref\ExercicioMatrizes.dll

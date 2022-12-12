@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF12\ExercicioF12\bin\Debug\net6.0\ExercicioF12.exe
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF12\ExercicioF12\bin\Debug\net6.0\ExercicioF12.deps.json
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF12\ExercicioF12\bin\Debug\net6.0\ExercicioF12.runtimeconfig.json
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF12\ExercicioF12\bin\Debug\net6.0\ExercicioF12.dll
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF12\ExercicioF12\bin\Debug\net6.0\ExercicioF12.pdb
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF12\ExercicioF12\obj\Debug\net6.0\ExercicioF12.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF12\ExercicioF12\obj\Debug\net6.0\ExercicioF12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF12\ExercicioF12\obj\Debug\net6.0\ExercicioF12.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF12\ExercicioF12\obj\Debug\net6.0\ExercicioF12.AssemblyInfo.cs
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF12\ExercicioF12\obj\Debug\net6.0\ExercicioF12.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF12\ExercicioF12\obj\Debug\net6.0\ExercicioF12.dll
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF12\ExercicioF12\obj\Debug\net6.0\refint\ExercicioF12.dll
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF12\ExercicioF12\obj\Debug\net6.0\ExercicioF12.pdb
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF12\ExercicioF12\obj\Debug\net6.0\ExercicioF12.genruntimeconfig.cache
+D:\Curso C# Udemy\Classes Atributos Métodos Membros estáticos\ExercicioF12\ExercicioF12\obj\Debug\net6.0\ref\ExercicioF12.dll

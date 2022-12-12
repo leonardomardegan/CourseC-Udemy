@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioListas\ExercicioListas\bin\Debug\net6.0\ExercicioListas.exe
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioListas\ExercicioListas\bin\Debug\net6.0\ExercicioListas.deps.json
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioListas\ExercicioListas\bin\Debug\net6.0\ExercicioListas.runtimeconfig.json
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioListas\ExercicioListas\bin\Debug\net6.0\ExercicioListas.dll
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioListas\ExercicioListas\bin\Debug\net6.0\ExercicioListas.pdb
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.AssemblyInfo.cs
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.dll
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioListas\ExercicioListas\obj\Debug\net6.0\refint\ExercicioListas.dll
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.pdb
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.genruntimeconfig.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\ExercicioListas\ExercicioListas\obj\Debug\net6.0\ref\ExercicioListas.dll

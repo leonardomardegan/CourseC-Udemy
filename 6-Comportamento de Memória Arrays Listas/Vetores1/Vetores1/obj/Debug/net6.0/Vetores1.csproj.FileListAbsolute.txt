@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Vetores1\Vetores1\bin\Debug\net6.0\Vetores1.exe
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Vetores1\Vetores1\bin\Debug\net6.0\Vetores1.deps.json
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Vetores1\Vetores1\bin\Debug\net6.0\Vetores1.runtimeconfig.json
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Vetores1\Vetores1\bin\Debug\net6.0\Vetores1.dll
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Vetores1\Vetores1\bin\Debug\net6.0\Vetores1.pdb
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Vetores1\Vetores1\obj\Debug\net6.0\Vetores1.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Vetores1\Vetores1\obj\Debug\net6.0\Vetores1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Vetores1\Vetores1\obj\Debug\net6.0\Vetores1.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Vetores1\Vetores1\obj\Debug\net6.0\Vetores1.AssemblyInfo.cs
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Vetores1\Vetores1\obj\Debug\net6.0\Vetores1.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Vetores1\Vetores1\obj\Debug\net6.0\Vetores1.dll
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Vetores1\Vetores1\obj\Debug\net6.0\refint\Vetores1.dll
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Vetores1\Vetores1\obj\Debug\net6.0\Vetores1.pdb
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Vetores1\Vetores1\obj\Debug\net6.0\Vetores1.genruntimeconfig.cache
+D:\Curso C# Udemy\6-Comportamento de Memória Arrays Listas\Vetores1\Vetores1\obj\Debug\net6.0\ref\Vetores1.dll

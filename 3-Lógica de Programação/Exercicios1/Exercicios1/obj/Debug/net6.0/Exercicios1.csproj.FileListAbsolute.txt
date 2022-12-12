@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\Lógica de Programação\Exercicios1\Exercicios1\bin\Debug\net6.0\Exercicios1.exe
+D:\Curso C# Udemy\Lógica de Programação\Exercicios1\Exercicios1\bin\Debug\net6.0\Exercicios1.deps.json
+D:\Curso C# Udemy\Lógica de Programação\Exercicios1\Exercicios1\bin\Debug\net6.0\Exercicios1.runtimeconfig.json
+D:\Curso C# Udemy\Lógica de Programação\Exercicios1\Exercicios1\bin\Debug\net6.0\Exercicios1.dll
+D:\Curso C# Udemy\Lógica de Programação\Exercicios1\Exercicios1\bin\Debug\net6.0\Exercicios1.pdb
+D:\Curso C# Udemy\Lógica de Programação\Exercicios1\Exercicios1\obj\Debug\net6.0\Exercicios1.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\Lógica de Programação\Exercicios1\Exercicios1\obj\Debug\net6.0\Exercicios1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\Lógica de Programação\Exercicios1\Exercicios1\obj\Debug\net6.0\Exercicios1.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\Lógica de Programação\Exercicios1\Exercicios1\obj\Debug\net6.0\Exercicios1.AssemblyInfo.cs
+D:\Curso C# Udemy\Lógica de Programação\Exercicios1\Exercicios1\obj\Debug\net6.0\Exercicios1.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\Lógica de Programação\Exercicios1\Exercicios1\obj\Debug\net6.0\Exercicios1.dll
+D:\Curso C# Udemy\Lógica de Programação\Exercicios1\Exercicios1\obj\Debug\net6.0\refint\Exercicios1.dll
+D:\Curso C# Udemy\Lógica de Programação\Exercicios1\Exercicios1\obj\Debug\net6.0\Exercicios1.pdb
+D:\Curso C# Udemy\Lógica de Programação\Exercicios1\Exercicios1\obj\Debug\net6.0\Exercicios1.genruntimeconfig.cache
+D:\Curso C# Udemy\Lógica de Programação\Exercicios1\Exercicios1\obj\Debug\net6.0\ref\Exercicios1.dll

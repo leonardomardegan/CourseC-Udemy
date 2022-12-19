@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\10-Herança e Polimorfismo\FixationExercise2\FixationExercise2\bin\Debug\net6.0\FixationExercise2.exe
+D:\Curso C# Udemy\10-Herança e Polimorfismo\FixationExercise2\FixationExercise2\bin\Debug\net6.0\FixationExercise2.deps.json
+D:\Curso C# Udemy\10-Herança e Polimorfismo\FixationExercise2\FixationExercise2\bin\Debug\net6.0\FixationExercise2.runtimeconfig.json
+D:\Curso C# Udemy\10-Herança e Polimorfismo\FixationExercise2\FixationExercise2\bin\Debug\net6.0\FixationExercise2.dll
+D:\Curso C# Udemy\10-Herança e Polimorfismo\FixationExercise2\FixationExercise2\bin\Debug\net6.0\FixationExercise2.pdb
+D:\Curso C# Udemy\10-Herança e Polimorfismo\FixationExercise2\FixationExercise2\obj\Debug\net6.0\FixationExercise2.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\10-Herança e Polimorfismo\FixationExercise2\FixationExercise2\obj\Debug\net6.0\FixationExercise2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\10-Herança e Polimorfismo\FixationExercise2\FixationExercise2\obj\Debug\net6.0\FixationExercise2.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\10-Herança e Polimorfismo\FixationExercise2\FixationExercise2\obj\Debug\net6.0\FixationExercise2.AssemblyInfo.cs
+D:\Curso C# Udemy\10-Herança e Polimorfismo\FixationExercise2\FixationExercise2\obj\Debug\net6.0\FixationExercise2.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\10-Herança e Polimorfismo\FixationExercise2\FixationExercise2\obj\Debug\net6.0\FixationExercise2.dll
+D:\Curso C# Udemy\10-Herança e Polimorfismo\FixationExercise2\FixationExercise2\obj\Debug\net6.0\refint\FixationExercise2.dll
+D:\Curso C# Udemy\10-Herança e Polimorfismo\FixationExercise2\FixationExercise2\obj\Debug\net6.0\FixationExercise2.pdb
+D:\Curso C# Udemy\10-Herança e Polimorfismo\FixationExercise2\FixationExercise2\obj\Debug\net6.0\FixationExercise2.genruntimeconfig.cache
+D:\Curso C# Udemy\10-Herança e Polimorfismo\FixationExercise2\FixationExercise2\obj\Debug\net6.0\ref\FixationExercise2.dll

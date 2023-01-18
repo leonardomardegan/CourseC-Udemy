@@ -10,7 +10,7 @@
             }
             else
             {
-                return amount * 1.5;
+                return amount * 0.15;
             }
         }
     }

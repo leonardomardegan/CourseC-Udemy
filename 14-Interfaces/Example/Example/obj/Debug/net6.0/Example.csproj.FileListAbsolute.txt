@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\14-Interfaces\Example\Example\bin\Debug\net6.0\Example.exe
+D:\Curso C# Udemy\14-Interfaces\Example\Example\bin\Debug\net6.0\Example.deps.json
+D:\Curso C# Udemy\14-Interfaces\Example\Example\bin\Debug\net6.0\Example.runtimeconfig.json
+D:\Curso C# Udemy\14-Interfaces\Example\Example\bin\Debug\net6.0\Example.dll
+D:\Curso C# Udemy\14-Interfaces\Example\Example\bin\Debug\net6.0\Example.pdb
+D:\Curso C# Udemy\14-Interfaces\Example\Example\obj\Debug\net6.0\Example.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\14-Interfaces\Example\Example\obj\Debug\net6.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\14-Interfaces\Example\Example\obj\Debug\net6.0\Example.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\14-Interfaces\Example\Example\obj\Debug\net6.0\Example.AssemblyInfo.cs
+D:\Curso C# Udemy\14-Interfaces\Example\Example\obj\Debug\net6.0\Example.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\14-Interfaces\Example\Example\obj\Debug\net6.0\Example.dll
+D:\Curso C# Udemy\14-Interfaces\Example\Example\obj\Debug\net6.0\refint\Example.dll
+D:\Curso C# Udemy\14-Interfaces\Example\Example\obj\Debug\net6.0\Example.pdb
+D:\Curso C# Udemy\14-Interfaces\Example\Example\obj\Debug\net6.0\Example.genruntimeconfig.cache
+D:\Curso C# Udemy\14-Interfaces\Example\Example\obj\Debug\net6.0\ref\Example.dll

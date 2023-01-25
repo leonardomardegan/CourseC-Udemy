@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\15-Generics Set Dictionary\Generics\Generics\bin\Debug\net6.0\Generics.exe
+D:\Curso C# Udemy\15-Generics Set Dictionary\Generics\Generics\bin\Debug\net6.0\Generics.deps.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\Generics\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\Generics\Generics\bin\Debug\net6.0\Generics.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\Generics\Generics\bin\Debug\net6.0\Generics.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\Generics\Generics\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\Generics\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\15-Generics Set Dictionary\Generics\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\Generics\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+D:\Curso C# Udemy\15-Generics Set Dictionary\Generics\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\Generics\Generics\obj\Debug\net6.0\Generics.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\Generics\Generics\obj\Debug\net6.0\refint\Generics.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\Generics\Generics\obj\Debug\net6.0\Generics.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\Generics\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\Generics\Generics\obj\Debug\net6.0\ref\Generics.dll

@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\15-Generics Set Dictionary\Problem\Problem\bin\Debug\net6.0\Problem.exe
+D:\Curso C# Udemy\15-Generics Set Dictionary\Problem\Problem\bin\Debug\net6.0\Problem.deps.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\Problem\Problem\bin\Debug\net6.0\Problem.runtimeconfig.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\Problem\Problem\bin\Debug\net6.0\Problem.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\Problem\Problem\bin\Debug\net6.0\Problem.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\Problem\Problem\obj\Debug\net6.0\Problem.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\Problem\Problem\obj\Debug\net6.0\Problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\15-Generics Set Dictionary\Problem\Problem\obj\Debug\net6.0\Problem.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\Problem\Problem\obj\Debug\net6.0\Problem.AssemblyInfo.cs
+D:\Curso C# Udemy\15-Generics Set Dictionary\Problem\Problem\obj\Debug\net6.0\Problem.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\Problem\Problem\obj\Debug\net6.0\Problem.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\Problem\Problem\obj\Debug\net6.0\refint\Problem.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\Problem\Problem\obj\Debug\net6.0\Problem.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\Problem\Problem\obj\Debug\net6.0\Problem.genruntimeconfig.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\Problem\Problem\obj\Debug\net6.0\ref\Problem.dll

@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\15-Generics Set Dictionary\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.exe
+D:\Curso C# Udemy\15-Generics Set Dictionary\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.deps.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.runtimeconfig.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\15-Generics Set Dictionary\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.AssemblyInfo.cs
+D:\Curso C# Udemy\15-Generics Set Dictionary\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\refint\GetHashCodeEquals.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.genruntimeconfig.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\ref\GetHashCodeEquals.dll

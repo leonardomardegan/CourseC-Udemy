@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\15-Generics Set Dictionary\Hash\Hash\bin\Debug\net6.0\Hash.exe
+D:\Curso C# Udemy\15-Generics Set Dictionary\Hash\Hash\bin\Debug\net6.0\Hash.deps.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\Hash\Hash\bin\Debug\net6.0\Hash.runtimeconfig.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\Hash\Hash\bin\Debug\net6.0\Hash.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\Hash\Hash\bin\Debug\net6.0\Hash.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\Hash\Hash\obj\Debug\net6.0\Hash.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\Hash\Hash\obj\Debug\net6.0\Hash.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\15-Generics Set Dictionary\Hash\Hash\obj\Debug\net6.0\Hash.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\Hash\Hash\obj\Debug\net6.0\Hash.AssemblyInfo.cs
+D:\Curso C# Udemy\15-Generics Set Dictionary\Hash\Hash\obj\Debug\net6.0\Hash.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\Hash\Hash\obj\Debug\net6.0\Hash.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\Hash\Hash\obj\Debug\net6.0\refint\Hash.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\Hash\Hash\obj\Debug\net6.0\Hash.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\Hash\Hash\obj\Debug\net6.0\Hash.genruntimeconfig.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\Hash\Hash\obj\Debug\net6.0\ref\Hash.dll

@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\15-Generics Set Dictionary\DictionarySortedDictionary\DictionarySortedDictionary\bin\Debug\net6.0\DictionarySortedDictionary.exe
+D:\Curso C# Udemy\15-Generics Set Dictionary\DictionarySortedDictionary\DictionarySortedDictionary\bin\Debug\net6.0\DictionarySortedDictionary.deps.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\DictionarySortedDictionary\DictionarySortedDictionary\bin\Debug\net6.0\DictionarySortedDictionary.runtimeconfig.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\DictionarySortedDictionary\DictionarySortedDictionary\bin\Debug\net6.0\DictionarySortedDictionary.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\DictionarySortedDictionary\DictionarySortedDictionary\bin\Debug\net6.0\DictionarySortedDictionary.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net6.0\DictionarySortedDictionary.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net6.0\DictionarySortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\15-Generics Set Dictionary\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net6.0\DictionarySortedDictionary.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net6.0\DictionarySortedDictionary.AssemblyInfo.cs
+D:\Curso C# Udemy\15-Generics Set Dictionary\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net6.0\DictionarySortedDictionary.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net6.0\DictionarySortedDictionary.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net6.0\refint\DictionarySortedDictionary.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net6.0\DictionarySortedDictionary.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net6.0\DictionarySortedDictionary.genruntimeconfig.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\DictionarySortedDictionary\DictionarySortedDictionary\obj\Debug\net6.0\ref\DictionarySortedDictionary.dll

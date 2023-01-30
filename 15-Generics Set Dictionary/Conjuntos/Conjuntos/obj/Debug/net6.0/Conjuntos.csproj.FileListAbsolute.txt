@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\15-Generics Set Dictionary\Conjuntos\Conjuntos\bin\Debug\net6.0\Conjuntos.exe
+D:\Curso C# Udemy\15-Generics Set Dictionary\Conjuntos\Conjuntos\bin\Debug\net6.0\Conjuntos.deps.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\Conjuntos\Conjuntos\bin\Debug\net6.0\Conjuntos.runtimeconfig.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\Conjuntos\Conjuntos\bin\Debug\net6.0\Conjuntos.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\Conjuntos\Conjuntos\bin\Debug\net6.0\Conjuntos.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\15-Generics Set Dictionary\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.AssemblyInfo.cs
+D:\Curso C# Udemy\15-Generics Set Dictionary\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\Conjuntos\Conjuntos\obj\Debug\net6.0\refint\Conjuntos.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\Conjuntos\Conjuntos\obj\Debug\net6.0\Conjuntos.genruntimeconfig.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\Conjuntos\Conjuntos\obj\Debug\net6.0\ref\Conjuntos.dll

@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseSets\ExerciseSets\bin\Debug\net6.0\ExerciseSets.exe
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseSets\ExerciseSets\bin\Debug\net6.0\ExerciseSets.deps.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseSets\ExerciseSets\bin\Debug\net6.0\ExerciseSets.runtimeconfig.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseSets\ExerciseSets\bin\Debug\net6.0\ExerciseSets.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseSets\ExerciseSets\bin\Debug\net6.0\ExerciseSets.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseSets\ExerciseSets\obj\Debug\net6.0\ExerciseSets.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseSets\ExerciseSets\obj\Debug\net6.0\ExerciseSets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseSets\ExerciseSets\obj\Debug\net6.0\ExerciseSets.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseSets\ExerciseSets\obj\Debug\net6.0\ExerciseSets.AssemblyInfo.cs
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseSets\ExerciseSets\obj\Debug\net6.0\ExerciseSets.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseSets\ExerciseSets\obj\Debug\net6.0\ExerciseSets.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseSets\ExerciseSets\obj\Debug\net6.0\refint\ExerciseSets.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseSets\ExerciseSets\obj\Debug\net6.0\ExerciseSets.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseSets\ExerciseSets\obj\Debug\net6.0\ExerciseSets.genruntimeconfig.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseSets\ExerciseSets\obj\Debug\net6.0\ref\ExerciseSets.dll

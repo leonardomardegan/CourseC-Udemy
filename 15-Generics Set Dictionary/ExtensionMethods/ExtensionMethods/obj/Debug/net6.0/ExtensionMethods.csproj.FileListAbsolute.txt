@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.exe
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.deps.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.runtimeconfig.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfo.cs
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\refint\ExtensionMethods.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.genruntimeconfig.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ref\ExtensionMethods.dll

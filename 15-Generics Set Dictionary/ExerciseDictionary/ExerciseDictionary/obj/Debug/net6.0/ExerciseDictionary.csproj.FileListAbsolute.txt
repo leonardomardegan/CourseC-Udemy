@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseDictionary\ExerciseDictionary\bin\Debug\net6.0\ExerciseDictionary.exe
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseDictionary\ExerciseDictionary\bin\Debug\net6.0\ExerciseDictionary.deps.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseDictionary\ExerciseDictionary\bin\Debug\net6.0\ExerciseDictionary.runtimeconfig.json
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseDictionary\ExerciseDictionary\bin\Debug\net6.0\ExerciseDictionary.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseDictionary\ExerciseDictionary\bin\Debug\net6.0\ExerciseDictionary.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ExerciseDictionary.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ExerciseDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ExerciseDictionary.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ExerciseDictionary.AssemblyInfo.cs
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ExerciseDictionary.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ExerciseDictionary.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\refint\ExerciseDictionary.dll
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ExerciseDictionary.pdb
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ExerciseDictionary.genruntimeconfig.cache
+D:\Curso C# Udemy\15-Generics Set Dictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ref\ExerciseDictionary.dll

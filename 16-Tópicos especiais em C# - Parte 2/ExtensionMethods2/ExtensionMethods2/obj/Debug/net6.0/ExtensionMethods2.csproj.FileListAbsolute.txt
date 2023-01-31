@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\16-Tópicos especiais em C# - Parte 2\ExtensionMethods2\ExtensionMethods2\bin\Debug\net6.0\ExtensionMethods2.exe
+D:\Curso C# Udemy\16-Tópicos especiais em C# - Parte 2\ExtensionMethods2\ExtensionMethods2\bin\Debug\net6.0\ExtensionMethods2.deps.json
+D:\Curso C# Udemy\16-Tópicos especiais em C# - Parte 2\ExtensionMethods2\ExtensionMethods2\bin\Debug\net6.0\ExtensionMethods2.runtimeconfig.json
+D:\Curso C# Udemy\16-Tópicos especiais em C# - Parte 2\ExtensionMethods2\ExtensionMethods2\bin\Debug\net6.0\ExtensionMethods2.dll
+D:\Curso C# Udemy\16-Tópicos especiais em C# - Parte 2\ExtensionMethods2\ExtensionMethods2\bin\Debug\net6.0\ExtensionMethods2.pdb
+D:\Curso C# Udemy\16-Tópicos especiais em C# - Parte 2\ExtensionMethods2\ExtensionMethods2\obj\Debug\net6.0\ExtensionMethods2.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\16-Tópicos especiais em C# - Parte 2\ExtensionMethods2\ExtensionMethods2\obj\Debug\net6.0\ExtensionMethods2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\16-Tópicos especiais em C# - Parte 2\ExtensionMethods2\ExtensionMethods2\obj\Debug\net6.0\ExtensionMethods2.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\16-Tópicos especiais em C# - Parte 2\ExtensionMethods2\ExtensionMethods2\obj\Debug\net6.0\ExtensionMethods2.AssemblyInfo.cs
+D:\Curso C# Udemy\16-Tópicos especiais em C# - Parte 2\ExtensionMethods2\ExtensionMethods2\obj\Debug\net6.0\ExtensionMethods2.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\16-Tópicos especiais em C# - Parte 2\ExtensionMethods2\ExtensionMethods2\obj\Debug\net6.0\ExtensionMethods2.dll
+D:\Curso C# Udemy\16-Tópicos especiais em C# - Parte 2\ExtensionMethods2\ExtensionMethods2\obj\Debug\net6.0\refint\ExtensionMethods2.dll
+D:\Curso C# Udemy\16-Tópicos especiais em C# - Parte 2\ExtensionMethods2\ExtensionMethods2\obj\Debug\net6.0\ExtensionMethods2.pdb
+D:\Curso C# Udemy\16-Tópicos especiais em C# - Parte 2\ExtensionMethods2\ExtensionMethods2\obj\Debug\net6.0\ExtensionMethods2.genruntimeconfig.cache
+D:\Curso C# Udemy\16-Tópicos especiais em C# - Parte 2\ExtensionMethods2\ExtensionMethods2\obj\Debug\net6.0\ref\ExtensionMethods2.dll

@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\MulticastDelegates\MulticastDelegates\bin\Debug\net6.0\MulticastDelegates.exe
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\MulticastDelegates\MulticastDelegates\bin\Debug\net6.0\MulticastDelegates.deps.json
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\MulticastDelegates\MulticastDelegates\bin\Debug\net6.0\MulticastDelegates.runtimeconfig.json
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\MulticastDelegates\MulticastDelegates\bin\Debug\net6.0\MulticastDelegates.dll
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\MulticastDelegates\MulticastDelegates\bin\Debug\net6.0\MulticastDelegates.pdb
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\MulticastDelegates.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\MulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\MulticastDelegates.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\MulticastDelegates.AssemblyInfo.cs
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\MulticastDelegates.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\MulticastDelegates.dll
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\refint\MulticastDelegates.dll
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\MulticastDelegates.pdb
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\MulticastDelegates.genruntimeconfig.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\ref\MulticastDelegates.dll

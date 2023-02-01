@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\ComparisonT\ComparisonT\bin\Debug\net6.0\ComparisonT.exe
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\ComparisonT\ComparisonT\bin\Debug\net6.0\ComparisonT.deps.json
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\ComparisonT\ComparisonT\bin\Debug\net6.0\ComparisonT.runtimeconfig.json
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\ComparisonT\ComparisonT\bin\Debug\net6.0\ComparisonT.dll
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\ComparisonT\ComparisonT\bin\Debug\net6.0\ComparisonT.pdb
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\ComparisonT\ComparisonT\obj\Debug\net6.0\ComparisonT.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\ComparisonT\ComparisonT\obj\Debug\net6.0\ComparisonT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\ComparisonT\ComparisonT\obj\Debug\net6.0\ComparisonT.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\ComparisonT\ComparisonT\obj\Debug\net6.0\ComparisonT.AssemblyInfo.cs
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\ComparisonT\ComparisonT\obj\Debug\net6.0\ComparisonT.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\ComparisonT\ComparisonT\obj\Debug\net6.0\ComparisonT.dll
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\ComparisonT\ComparisonT\obj\Debug\net6.0\refint\ComparisonT.dll
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\ComparisonT\ComparisonT\obj\Debug\net6.0\ComparisonT.pdb
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\ComparisonT\ComparisonT\obj\Debug\net6.0\ComparisonT.genruntimeconfig.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\ComparisonT\ComparisonT\obj\Debug\net6.0\ref\ComparisonT.dll

@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\Func\Func\bin\Debug\net6.0\Func.exe
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\Func\Func\bin\Debug\net6.0\Func.deps.json
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\Func\Func\bin\Debug\net6.0\Func.runtimeconfig.json
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\Func\Func\bin\Debug\net6.0\Func.dll
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\Func\Func\bin\Debug\net6.0\Func.pdb
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\Func\Func\obj\Debug\net6.0\Func.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\Func\Func\obj\Debug\net6.0\Func.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\Func\Func\obj\Debug\net6.0\Func.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\Func\Func\obj\Debug\net6.0\Func.AssemblyInfo.cs
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\Func\Func\obj\Debug\net6.0\Func.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\Func\Func\obj\Debug\net6.0\Func.dll
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\Func\Func\obj\Debug\net6.0\refint\Func.dll
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\Func\Func\obj\Debug\net6.0\Func.pdb
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\Func\Func\obj\Debug\net6.0\Func.genruntimeconfig.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\Func\Func\obj\Debug\net6.0\ref\Func.dll

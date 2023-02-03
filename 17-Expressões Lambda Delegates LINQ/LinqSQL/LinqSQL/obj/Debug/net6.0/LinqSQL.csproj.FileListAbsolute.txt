@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\LinqSQL\LinqSQL\bin\Debug\net6.0\LinqSQL.exe
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\LinqSQL\LinqSQL\bin\Debug\net6.0\LinqSQL.deps.json
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\LinqSQL\LinqSQL\bin\Debug\net6.0\LinqSQL.runtimeconfig.json
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\LinqSQL\LinqSQL\bin\Debug\net6.0\LinqSQL.dll
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\LinqSQL\LinqSQL\bin\Debug\net6.0\LinqSQL.pdb
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\LinqSQL\LinqSQL\obj\Debug\net6.0\LinqSQL.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\LinqSQL\LinqSQL\obj\Debug\net6.0\LinqSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\LinqSQL\LinqSQL\obj\Debug\net6.0\LinqSQL.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\LinqSQL\LinqSQL\obj\Debug\net6.0\LinqSQL.AssemblyInfo.cs
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\LinqSQL\LinqSQL\obj\Debug\net6.0\LinqSQL.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\LinqSQL\LinqSQL\obj\Debug\net6.0\LinqSQL.dll
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\LinqSQL\LinqSQL\obj\Debug\net6.0\refint\LinqSQL.dll
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\LinqSQL\LinqSQL\obj\Debug\net6.0\LinqSQL.pdb
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\LinqSQL\LinqSQL\obj\Debug\net6.0\LinqSQL.genruntimeconfig.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\LinqSQL\LinqSQL\obj\Debug\net6.0\ref\LinqSQL.dll

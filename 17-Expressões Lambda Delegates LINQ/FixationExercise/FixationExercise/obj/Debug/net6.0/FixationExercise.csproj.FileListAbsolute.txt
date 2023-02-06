@@ -1,0 +1,15 @@
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\FixationExercise\FixationExercise\bin\Debug\net6.0\FixationExercise.exe
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\FixationExercise\FixationExercise\bin\Debug\net6.0\FixationExercise.deps.json
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\FixationExercise\FixationExercise\bin\Debug\net6.0\FixationExercise.runtimeconfig.json
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\FixationExercise\FixationExercise\bin\Debug\net6.0\FixationExercise.dll
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\FixationExercise\FixationExercise\bin\Debug\net6.0\FixationExercise.pdb
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\FixationExercise\FixationExercise\obj\Debug\net6.0\FixationExercise.csproj.AssemblyReference.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\FixationExercise\FixationExercise\obj\Debug\net6.0\FixationExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\FixationExercise\FixationExercise\obj\Debug\net6.0\FixationExercise.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\FixationExercise\FixationExercise\obj\Debug\net6.0\FixationExercise.AssemblyInfo.cs
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\FixationExercise\FixationExercise\obj\Debug\net6.0\FixationExercise.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\FixationExercise\FixationExercise\obj\Debug\net6.0\FixationExercise.dll
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\FixationExercise\FixationExercise\obj\Debug\net6.0\refint\FixationExercise.dll
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\FixationExercise\FixationExercise\obj\Debug\net6.0\FixationExercise.pdb
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\FixationExercise\FixationExercise\obj\Debug\net6.0\FixationExercise.genruntimeconfig.cache
+D:\Curso C# Udemy\17-Expressões Lambda Delegates LINQ\FixationExercise\FixationExercise\obj\Debug\net6.0\ref\FixationExercise.dll
